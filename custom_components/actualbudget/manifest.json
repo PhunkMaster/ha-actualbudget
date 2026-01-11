@@ -1,6 +1,6 @@
 {
-  "domain": "actualbudget",
-  "name": "actualbudget Integration",
+  "domain": "Actual Budget",
+  "name": "PhunkMaster Actual budget Integration",
   "codeowners": ["@phunkmaster"],
   "config_flow": true,
   "dependencies": [],

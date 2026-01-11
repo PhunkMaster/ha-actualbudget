@@ -139,7 +139,7 @@ class actualbudgetAccountSensor(SensorEntity):
         self._prefix = prefix
 
         self._icon = DEFAULT_ICON
-        self._unit_of_measurement = unit
+        # self._unit_of_measurement = unit
         self._device_class = SensorDeviceClass.MONETARY
         self._state_class = SensorStateClass.MEASUREMENT
         self._state = None
